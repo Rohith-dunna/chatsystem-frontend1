@@ -30,12 +30,12 @@
     "tesseract.js": "^6.0.1",
     "web-vitals": "^2.1.4"
   },
-"scripts": {
-  "start": "react-scripts start",
-  "build": "cross-env REACT_APP_API_URL=https://chatsystem-backend1.onrender.com REACT_APP_WS_URL=wss://chatsystem-backend1.onrender.com react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "cross-env REACT_APP_API_URL=https://chatsystem-backend1.onrender.com REACT_APP_WS_URL=wss://chatsystem-backend1.onrender.com react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
